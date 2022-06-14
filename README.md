@@ -18,7 +18,7 @@ mvn install
 The generated JAR files will be located at the `target` directory.
 
 ## Installing
-**🚨 This requires both [Gatekeeper](https://github.com/servidorsemnome/gatekeeper) to be running to work properly.**
+**🚨 This requires [Gatekeeper](https://github.com/servidorsemnome/gatekeeper) to be running to work properly.**
 
 You can install Atreus just like any other Spigot plugin, drop the JAR file on your `plugins` directory and run the server.
 
