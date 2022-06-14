@@ -1,0 +1,5 @@
+targetServer: "main"
+timezone: -3
+gatekeeper:
+  baseURL: "http://local.ssn.gg:3001"
+  token: "PLEASE-CHANGE-ME-I-AM-VERY-INSECURE"

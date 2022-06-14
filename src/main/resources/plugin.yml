@@ -1,0 +1,5 @@
+name: Atreus
+version: '${project.version}'
+main: com.doceazedo.atreus.Atreus
+prefix: Atreus
+authors: [ DoceAzedo ]
