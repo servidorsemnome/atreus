@@ -22,7 +22,7 @@ object Gatekeeper {
         if (!shouldContinueFlow) return
 
         val flow = GatekeeperClient.createFlow(FlowRequest(nickname, ip))
-                ?: return player.kickPlayer("§cNão foi possível iniciar fluxo de login")
+                ?: return player.kickPlayer("§cNão foi possível iniciar o fluxo de login")
 
         player.sendMessage(hr)
         player.sendMessage(" ")
